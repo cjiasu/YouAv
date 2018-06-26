@@ -1,10 +1,10 @@
 <ServiceData>{
 ["Notice"]={
 ["Message"]="\
-成人频道正确的打开姿势==长按左侧栏顶部图片2秒自动打开！本窗口只提示一次！版本更新可以关注我们的TG频道.\
+为了防止未成年人浏览，成人频道打开方式改为长按左侧栏顶部图片2秒自动打开！本窗口只提示一次！版本更新可以关注我们的TG频道.\
 ",
-["ID"]="9",
-["Title"]="友情提示",
+["ID"]="10",
+["Title"]="新手必看",
 },["Update"]={
 ["DownloadUrl"]="https://raw.githubusercontent.com/lw960105/YouAv/master/YouAv.apk",
 ["ChangeLog"]="YouAv\
